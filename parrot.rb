@@ -1,5 +1,5 @@
-def parrot(parrot_name, =Squack)
-  parrot_name "Pretty Bird"
-  puts "Squack"
+def parrot(Pretty Bird =Squack)
+  puts "Pretty Bird"
+  return "Squack"
   
 end
