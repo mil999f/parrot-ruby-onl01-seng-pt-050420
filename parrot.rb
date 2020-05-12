@@ -1,4 +1,4 @@
-def parrot(blue ="Squack"!)
+def parrot(blue ="Squack!")
   puts blue
   return blue
   
